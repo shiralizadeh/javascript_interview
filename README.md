@@ -2,7 +2,6 @@
 
 common javascript interview questions
 
-<div align="center"><img src="img.jpeg"/></div>
 <p dir='rtl' align='right'>سوالات معمول جاوا اسکریپت که در مصاحبه‌های کاری پرسیده می‌شود</p>
 <p dir='rtl' align='right'>به مرور زمان تکمیل می‌گردد.</p>
 <p dir='rtl' align='right'>می تونید سوال جواب های خودتونو اضافه کنید تا بقیه هم استفاده کنن</p>
