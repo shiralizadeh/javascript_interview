@@ -1,0 +1,7 @@
+/*
+
+
+Negative Infinity is a number in JavaScript which can be derived by dividing negative number by zero.
+
+
+*/

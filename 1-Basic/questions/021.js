@@ -1,0 +1,7 @@
+/*
+
+
+What is javaScript hoisting?
+
+
+*/

@@ -1,0 +1,8 @@
+/*
+
+
+Break statement exits from the current loop.
+Continue statement continues with next statement of the loop.
+
+
+*/
