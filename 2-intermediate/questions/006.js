@@ -1,7 +1,7 @@
 /*
 
 
-Define event bubbling?
+Explain “this” keyword.
 
 
 */

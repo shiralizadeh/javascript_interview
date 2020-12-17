@@ -10,6 +10,7 @@ OOPs concept provides some techniques namely :
     Encapsulation — Encapsulation means hiding the object properties from outside. This secure our internal functionalities and preventing from any unknown changes. JavaScript does not have private or access modifiers. But we can take advantage of the JavaScript lexical scope where a function’s variable is not accessible from outside.
     Inheritance — This means an object can inherit methods and properties from a parent object. JavaScript is using different inheritance system where the parent object functionalities are not copied to the children object. But rather they are prototypically linked to their parent. So, we can still use the properties and functions that are not defined in the children object but declared in the parent.
     Polymorphism — is the ability to create a variable, a function, or an object that has more than one form.
+    Abstraction
 
 
 */

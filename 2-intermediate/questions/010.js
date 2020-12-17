@@ -1,0 +1,7 @@
+/*
+
+
+Explain Scope and Scope Chain in javascript.
+
+
+*/
